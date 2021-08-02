@@ -1,0 +1,48 @@
+ body{
+
+    width:100%;
+
+    margin:0;
+    padding:0;
+    margin-top:10px
+ }
+   .container{
+       width:80%;
+       margin:auto;
+        }
+        .box-1{
+            
+            border: 5px solid gray;
+         width: 100%;
+         padding: 5px 10px;
+         margin: auto;
+         color:white;
+         background-color: black;
+        }
+         .box-1 h1{
+             color: blue;
+             font-family: fantasy;
+
+             
+             
+         }
+
+        
+         .box-2{
+            
+            border: 5px dotted green;
+         width: 100%;
+         padding: 5px;
+         border-radius:10px;
+         margin-top: 10px;
+        background-color:white;
+        }
+
+            .box-2 h2{
+             color: blue;
+             font-style: oblique;
+             
+            }
+            .box-2 p{color:red;
+            
+            font size:20px;}
